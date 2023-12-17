@@ -25,7 +25,6 @@ The Simon game is a memory skill game where the player must follow a sequence of
 
 ## How to Play
 
-1. Open the [live demo](link_to_live_demo) in your web browser.
 1. Press the any key to begin the game.
 2. Watch the sequence of button lights.
 3. Repeat the sequence by clicking the corresponding buttons.
